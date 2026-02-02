@@ -12,7 +12,7 @@
  */
 
 .mi-header {
-  background-image: url('../../public/bg_02.jpg'); /* Usa la ruta relativa desde la raíz pública */
+  background-image: url('../assets/bg_02.jpg'); /* Usa la ruta relativa desde la raíz pública */
   background-size: cover;
   background-position: center;
   /* Otros estilos */
