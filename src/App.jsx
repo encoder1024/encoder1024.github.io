@@ -83,7 +83,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/psicoarte_02.jpeg"
+                src="./assets/psicoarte_02.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -130,7 +130,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/card_02.jpeg"
+                src="./assets/card_02.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -160,7 +160,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/card_01.jpeg"
+                src="./assets/card_01.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -204,7 +204,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/card_02.jpeg"
+                src="./assets/card_02.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -234,7 +234,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/card_03.jpeg"
+                src="./assets/card_03.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -268,7 +268,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/card_01.jpeg"
+                src="./assets/card_01.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -308,7 +308,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="../public/card_02.jpeg"
+                src="./assets/card_02.jpeg"
                 alt="..."
               />
               {/* <!-- Product details--> */}
