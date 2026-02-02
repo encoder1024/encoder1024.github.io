@@ -1,5 +1,6 @@
 import CardEspacio from './components/CardEspacio'
 import './css/styles.css'
+import imagen02 from "./assets/psicoarte_02.jpeg"
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -83,7 +84,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/psicoarte_02.jpeg"
+                src= {imagen02}
                 alt="..."
               />
               {/* <!-- Product details--> */}
