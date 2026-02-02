@@ -1,6 +1,13 @@
 import CardEspacio from './components/CardEspacio'
 import './css/styles.css'
 import imagen02 from "./assets/psicoarte_02.jpeg"
+import imagen03 from "./assets/card_02.jpeg"
+import imagen04 from "./assets/card_01.jpeg"
+import imagen05 from "./assets/card_02.jpeg"
+import imagen06 from "./assets/card_03.jpeg"
+import imagen07 from "./assets/card_01.jpeg"
+import imagen08 from "./assets/card_02.jpeg"
+
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -131,7 +138,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/card_02.jpeg"
+                src= {imagen03}
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -161,7 +168,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/card_01.jpeg"
+                src= {imagen04}
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -205,7 +212,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/card_02.jpeg"
+                src= {imagen05}
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -235,7 +242,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/card_03.jpeg"
+                src= {imagen06}
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -269,7 +276,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/card_01.jpeg"
+                src= {imagen07}
                 alt="..."
               />
               {/* <!-- Product details--> */}
@@ -309,7 +316,7 @@ function App() {
               {/* <!-- Product image--> */}
               <img
                 className="card-img-top"
-                src="./assets/card_02.jpeg"
+                src= {imagen08}
                 alt="..."
               />
               {/* <!-- Product details--> */}
